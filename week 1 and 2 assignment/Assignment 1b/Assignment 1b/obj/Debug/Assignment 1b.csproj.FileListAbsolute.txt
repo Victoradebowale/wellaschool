@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Wella School\Assignment 1b\Assignment 1b\bin\Debug\Assignment 1b.exe.config
+C:\Users\HP\Documents\Wella School\Assignment 1b\Assignment 1b\bin\Debug\Assignment 1b.exe
+C:\Users\HP\Documents\Wella School\Assignment 1b\Assignment 1b\bin\Debug\Assignment 1b.pdb
+C:\Users\HP\Documents\Wella School\Assignment 1b\Assignment 1b\obj\Debug\Assignment 1b.exe
+C:\Users\HP\Documents\Wella School\Assignment 1b\Assignment 1b\obj\Debug\Assignment 1b.pdb
